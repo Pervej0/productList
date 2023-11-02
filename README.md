@@ -1,14 +1,14 @@
 ## Intro
 
-This is one baseic product list page which we find in a E-commerece site.
+This project shows only one page which is the basic product list page we find on an E-commerce site.
 
 ## To Get Start With
 
-Just clone the repository and start your project with **"npm run start"** command.
+Clone the repository and start your project with the **"npm run start"** command.
 
 ## Features
 
-- Pagination functionality added when there is more than 8 products.
-- User can filter products by category and price.
-- Extra search functionality added for the producs.
-- Spinner added when web page search the products from API.
+- Pagination functionality added when there are more than 8 products.
+- Users can filter products by category and price.
+- Extra search functionality added for the products.
+- Spinner added when web page searches the products from API.
